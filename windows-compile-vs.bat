@@ -286,6 +286,10 @@ call configure^
  --enable-xxhash^
  --enable-zip^
  --enable-zlib^
+ --enable-shmop^
+ --enable-sysvmsg^
+ --enable-sysvshm^
+ --enable-sysvsem^
  --with-bz2=shared^
  --with-crypto=shared^
  --with-curl^
